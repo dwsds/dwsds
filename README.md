@@ -6,6 +6,7 @@
 - 💬 Ask me about **competitive programming, web development, machine learning**
 
 - 📫 How to reach me **divya.student.cse22@itbhu.ac.in**
+- 📄 Know about me *Resume Link*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
