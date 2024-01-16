@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Divya</h1>
-- 🔭 I’m currently working on App Dev
+- 🔭 I’m currently working on App Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/dwsds](https://github.com/dwsds)
 
